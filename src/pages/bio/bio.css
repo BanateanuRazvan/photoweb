@@ -1,0 +1,16 @@
+.bio {
+	margin: 100px 250px;
+	display: flex;
+	color: white;
+}
+
+.bioimage{
+	width: 289px;
+	height: 483px;
+	border-radius: 10px;
+}
+
+.biotext{
+	padding-left: 50px;
+	font-size: 25px;
+}

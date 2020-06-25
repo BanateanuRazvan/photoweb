@@ -1,0 +1,22 @@
+.container{
+	background-color: rgba(0, 0, 0, 0.1);
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap:0px;
+	margin: 200px;
+	margin-top: 0px;
+	align-items: center;
+	padding-left: 40px; 
+	padding-top: 35px;
+	
+}
+
+.image{
+	width: 273px;
+	height: 409px;
+	border-radius: 10px;
+}
+
+img {
+	margin: 20px;
+}
