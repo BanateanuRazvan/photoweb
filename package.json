@@ -1,8 +1,8 @@
 {
-  "homepage": "http://banateanurazvan.github.io/photoweb",
-  "name": "photoweb",
+  "name": "photography",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://banateanurazvan.github.io/photoweb/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -16,12 +16,12 @@
     "tachyons": "^4.12.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
