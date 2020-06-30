@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "204b5a4881e0f1b272a1effc3088af2b",
+    "revision": "126cff9590e8acf353a837e4e3be81d2",
     "url": "/photoweb/index.html"
   },
   {
-    "revision": "02604212ee5f97b2551c",
+    "revision": "862df4f3f4dc2f94ea37",
     "url": "/photoweb/static/css/2.306a6dee.chunk.css"
   },
   {
-    "revision": "70b204d6b451e0086bd9",
+    "revision": "906e05051a46c9f05402",
     "url": "/photoweb/static/css/main.fc5a6ec7.chunk.css"
   },
   {
-    "revision": "02604212ee5f97b2551c",
-    "url": "/photoweb/static/js/2.1fdc7204.chunk.js"
+    "revision": "862df4f3f4dc2f94ea37",
+    "url": "/photoweb/static/js/2.52464fdf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/photoweb/static/js/2.1fdc7204.chunk.js.LICENSE.txt"
+    "url": "/photoweb/static/js/2.52464fdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70b204d6b451e0086bd9",
-    "url": "/photoweb/static/js/main.c14d519c.chunk.js"
+    "revision": "906e05051a46c9f05402",
+    "url": "/photoweb/static/js/main.5348bc44.chunk.js"
   },
   {
-    "revision": "2e63f390bf7415c11863",
-    "url": "/photoweb/static/js/runtime-main.5985e101.js"
+    "revision": "deda2a617d5bae688b39",
+    "url": "/photoweb/static/js/runtime-main.ed654418.js"
   },
   {
     "revision": "20ffb7b781822a286fa0584cb8bc59f2",
