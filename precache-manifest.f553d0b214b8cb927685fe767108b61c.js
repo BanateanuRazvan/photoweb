@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "108d501275f1a8abf26fc7452195a48b",
+    "revision": "2ec8e97e434af37c0e9111eb4f243c4a",
     "url": "/photoweb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photoweb/static/css/2.306a6dee.chunk.css"
   },
   {
-    "revision": "e28b4c61c0a91f077e2c",
+    "revision": "b0b99b2687f83934149c",
     "url": "/photoweb/static/css/main.c8b42cb5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/photoweb/static/js/2.d83018d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e28b4c61c0a91f077e2c",
-    "url": "/photoweb/static/js/main.65713f6f.chunk.js"
+    "revision": "b0b99b2687f83934149c",
+    "url": "/photoweb/static/js/main.92420e4f.chunk.js"
   },
   {
     "revision": "deda2a617d5bae688b39",

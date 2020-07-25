@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/photoweb/static/css/main.c8b42cb5.chunk.css",
-    "main.js": "/photoweb/static/js/main.65713f6f.chunk.js",
-    "main.js.map": "/photoweb/static/js/main.65713f6f.chunk.js.map",
+    "main.js": "/photoweb/static/js/main.92420e4f.chunk.js",
+    "main.js.map": "/photoweb/static/js/main.92420e4f.chunk.js.map",
     "runtime-main.js": "/photoweb/static/js/runtime-main.ed654418.js",
     "runtime-main.js.map": "/photoweb/static/js/runtime-main.ed654418.js.map",
     "static/css/2.306a6dee.chunk.css": "/photoweb/static/css/2.306a6dee.chunk.css",
     "static/js/2.d83018d9.chunk.js": "/photoweb/static/js/2.d83018d9.chunk.js",
     "static/js/2.d83018d9.chunk.js.map": "/photoweb/static/js/2.d83018d9.chunk.js.map",
     "index.html": "/photoweb/index.html",
-    "precache-manifest.19d9547c253ef995b870e40511089900.js": "/photoweb/precache-manifest.19d9547c253ef995b870e40511089900.js",
+    "precache-manifest.f553d0b214b8cb927685fe767108b61c.js": "/photoweb/precache-manifest.f553d0b214b8cb927685fe767108b61c.js",
     "service-worker.js": "/photoweb/service-worker.js",
     "static/css/2.306a6dee.chunk.css.map": "/photoweb/static/css/2.306a6dee.chunk.css.map",
     "static/css/main.c8b42cb5.chunk.css.map": "/photoweb/static/css/main.c8b42cb5.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.306a6dee.chunk.css",
     "static/js/2.d83018d9.chunk.js",
     "static/css/main.c8b42cb5.chunk.css",
-    "static/js/main.65713f6f.chunk.js"
+    "static/js/main.92420e4f.chunk.js"
   ]
 }
