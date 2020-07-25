@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/photoweb/static/css/main.95f5cc3e.chunk.css",
+    "main.css": "/photoweb/static/css/main.71bfaa54.chunk.css",
     "main.js": "/photoweb/static/js/main.65713f6f.chunk.js",
     "main.js.map": "/photoweb/static/js/main.65713f6f.chunk.js.map",
     "runtime-main.js": "/photoweb/static/js/runtime-main.ed654418.js",
@@ -9,10 +9,10 @@
     "static/js/2.d83018d9.chunk.js": "/photoweb/static/js/2.d83018d9.chunk.js",
     "static/js/2.d83018d9.chunk.js.map": "/photoweb/static/js/2.d83018d9.chunk.js.map",
     "index.html": "/photoweb/index.html",
-    "precache-manifest.cc82db7d7cd8270793500e16e5e12bb9.js": "/photoweb/precache-manifest.cc82db7d7cd8270793500e16e5e12bb9.js",
+    "precache-manifest.70e75d5487feb903c3af15d56eec2764.js": "/photoweb/precache-manifest.70e75d5487feb903c3af15d56eec2764.js",
     "service-worker.js": "/photoweb/service-worker.js",
     "static/css/2.306a6dee.chunk.css.map": "/photoweb/static/css/2.306a6dee.chunk.css.map",
-    "static/css/main.95f5cc3e.chunk.css.map": "/photoweb/static/css/main.95f5cc3e.chunk.css.map",
+    "static/css/main.71bfaa54.chunk.css.map": "/photoweb/static/css/main.71bfaa54.chunk.css.map",
     "static/js/2.d83018d9.chunk.js.LICENSE.txt": "/photoweb/static/js/2.d83018d9.chunk.js.LICENSE.txt",
     "static/media/IMG_1.jpg": "/photoweb/static/media/IMG_1.20ffb7b7.jpg",
     "static/media/IMG_2.jpg": "/photoweb/static/media/IMG_2.f283a642.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.ed654418.js",
     "static/css/2.306a6dee.chunk.css",
     "static/js/2.d83018d9.chunk.js",
-    "static/css/main.95f5cc3e.chunk.css",
+    "static/css/main.71bfaa54.chunk.css",
     "static/js/main.65713f6f.chunk.js"
   ]
 }
